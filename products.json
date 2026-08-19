@@ -54,7 +54,7 @@
   {
     "id": "seed5",
     "url": "https://tartagelatina.com/fr/products/marina-towel-green?variant=51383592878416",
-    "see": false,
+    "see": true,
     "category": "Craft",
     "title": "Serviette Marina - Green",
     "image": "http://tartagelatina.com/cdn/shop/files/Marina-Stripe-Hand-Towel-Green-TARTA-GELATINA-02.jpg?v=1753809199&width=1920",
@@ -66,7 +66,7 @@
   {
     "id": "seed6",
     "url": "https://subtleimpacts.com/product/20lb-decorative-weight-single-aesthetic-kettlebell/",
-    "see": false,
+    "see": true,
     "category": "",
     "title": "20lb Decorative Weight | Single | Aesthetic Kettlebell - Subtle Impacts",
     "image": "https://subtleimpacts.com/wp-content/uploads/2021/05/actual-black-logo-design-SMALL.png",
@@ -136,7 +136,7 @@
   {
     "id": "seed12",
     "url": "https://www.fnac.com/a2716013/Edouard-Leve-Suicide",
-    "see": false,
+    "see": true,
     "category": "Livre",
     "title": "fnac.com",
     "image": null,
@@ -233,7 +233,7 @@
   {
     "id": "seed20",
     "url": "https://marivellehome.com/products/tiffany-extendable-sofa?variant=47952998432993",
-    "see": false,
+    "see": true,
     "category": "Maison",
     "title": "Tiffany Extendable Sofa in Chenille",
     "image": "http://marivellehome.com/cdn/shop/files/3517EDAF-CF86-4C25-B62D-9ADAA0BB89A1_b2075fcb-8a34-42b5-96c6-0cfde3f4d213.jpg?v=1771843189",
@@ -246,7 +246,7 @@
   {
     "id": "seed21",
     "url": "https://kafel-kar.pl/",
-    "see": false,
+    "see": true,
     "category": "Maison",
     "title": "KAFEL-KAR - kafle, kafle piecowe, kafle kominkowe, piece kaflowe, kominki kaflowe i kuchnie kaflowe,",
     "image": null,
@@ -258,7 +258,7 @@
   {
     "id": "seed22",
     "url": "https://palet.shop/shop",
-    "see": false,
+    "see": true,
     "category": "Maison",
     "title": "Palet | Shop custom glazed tiles – Design and order",
     "image": "https://assets.palet.prod.verveagency.com/assets/palet--custom-design-tiles.png",
@@ -270,7 +270,7 @@
   {
     "id": "seed23",
     "url": "https://www.lofa.com.mx/proyectos",
-    "see": false,
+    "see": true,
     "category": "Maison",
     "title": "Proyectos — LOFA Ceramics",
     "image": "https://images.squarespace-cdn.com/content/v1/62c55bdf9ec53308e5433e01/fc886363-e43a-4674-b9ed-3866af28b016/Resttinto2.jpg?format=1500w",
@@ -282,7 +282,7 @@
   {
     "id": "seed24",
     "url": "https://www.vitra.com/fr-fr/product/details/potence",
-    "see": false,
+    "see": true,
     "category": "Maison",
     "title": "Vitra | Potence",
     "image": "https://static.vitra.com/media/asset/2599819/storage/v_fullbleed_1440x/38319624.jpg",
@@ -294,7 +294,7 @@
   {
     "id": "seed25",
     "url": "https://clickntile.com/fr/",
-    "see": false,
+    "see": true,
     "category": "Maison",
     "title": "clickntile.com",
     "image": null,
@@ -354,7 +354,7 @@
   {
     "id": "seed30",
     "url": "https://fr.roborock.com/pages/roborock-saros-10",
-    "see": false,
+    "see": true,
     "category": "Maison",
     "title": "Saros 10 - La précision au service de l'excellence.",
     "image": "https://fr.roborock.com/cdn/shop/files/roborock_logo_share_1200x1200.jpg?v=1758513483",
@@ -366,7 +366,7 @@
   {
     "id": "seed31",
     "url": "https://www.corner.inc/place/p1kX8UXMHwh1",
-    "see": false,
+    "see": true,
     "category": "Adresse pas cher",
     "title": "Destockage Vaisselle Sartrouville - 52 Rue d'Estienne d'Orves, Sartrouville | Corner",
     "image": "https://www.corner.inc/place/og?id=p1kX8UXMHwh1",
@@ -388,7 +388,7 @@
   {
     "id": "seed33",
     "url": "https://www.lareservedesarts.org/points-of-sale",
-    "see": false,
+    "see": true,
     "category": "Adresse pas cher",
     "title": "Bienvenue à LA RESERVE DES ARTS",
     "image": "https://www.lareservedesarts.org/web/image/1308/LARESERVEDESARTS_LOGO-TAGLINE_BLACK.jpg",
@@ -411,7 +411,7 @@
   {
     "id": "seed35",
     "url": "https://easicyco.com/fr/products/mountain-bike-backpack",
-    "see": false,
+    "see": true,
     "category": "",
     "title": "EasiCyco Floating Mountain Bike Backpack Multi-Purpose",
     "image": "http://easicyco.com/cdn/shop/files/a11.png?v=1773844425",
@@ -423,7 +423,7 @@
   {
     "id": "seed36",
     "url": "https://www.leroymerlin.fr/produits/ventilateur-de-plafond-led-connecte-silencieux-cadix-inspire-signature-blanc-96009189.html",
-    "see": false,
+    "see": true,
     "category": "Maison",
     "title": "leroymerlin.fr",
     "image": null,
@@ -513,7 +513,7 @@
   {
     "id": "seed",
     "url": "",
-    "see": false,
+    "see": true,
     "category": "",
     "title": "",
     "image": null,
