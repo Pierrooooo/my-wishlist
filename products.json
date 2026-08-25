@@ -511,6 +511,26 @@
     "infos": []
   },
   {
+    "id": "seed45",
+    "url": "https://gourmandiz.co/products/pack-mini",
+    "see": true,
+    "category": "Cuisine",
+    "title": "",
+    "image": null,
+    "publisher": "",
+    "infos": []
+  },
+  {
+    "id": "seed46",
+    "url": "https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle?variant=47639990075492",
+    "see": true,
+    "category": "Cuisine",
+    "title": "",
+    "image": null,
+    "publisher": "",
+    "infos": ["Woodland + Walnut", "Stone Blue + Walnut", "Desert Rose + Maple", "Hazy Blue + Maple", "Smoke Green + Maple"]
+  },
+  {
     "id": "seed",
     "url": "",
     "see": true,
