@@ -544,7 +544,7 @@
     "id": "seed48",
     "url": "",
     "see": true,
-    "category": "Pas matériel",
+    "category": "Expérience",
     "title": "cours de cuisine avec un chef (Vegan ou Vegetarien BONUS)",
     "image": null,
     "publisher": "",
@@ -554,8 +554,18 @@
     "id": "seed49",
     "url": "",
     "see": true,
-    "category": "Pas matériel",
+    "category": "Expérience",
     "title": "saut en parachute",
+    "image": null,
+    "publisher": "",
+    "infos": []
+  },
+  {
+    "id": "seed50",
+    "url": "",
+    "see": true,
+    "category": "Expérience",
+    "title": "Concert",
     "image": null,
     "publisher": "",
     "infos": []
